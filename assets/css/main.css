@@ -1273,3 +1273,17 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.skill-card{
+  padding:14px 22px;
+  background:#fff;
+  border-radius:10px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.08);
+  font-weight:500;
+  transition:0.2s;
+}
+
+.skill-card:hover{
+  transform:translateY(-3px);
+  box-shadow:0 6px 18px rgba(0,0,0,0.12);
+}
