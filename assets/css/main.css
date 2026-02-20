@@ -1288,3 +1288,7 @@ section,
   transform:translateY(-3px);
   box-shadow:0 6px 18px rgba(0,0,0,0.12);
 }
+
+#skills.section {
+  padding-top: 20px;
+}
