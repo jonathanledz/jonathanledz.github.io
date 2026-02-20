@@ -1292,3 +1292,20 @@ section,
 #skills.section {
   padding-top: 20px;
 }
+
+/* RESUME BUTTONS */
+#resume .btn {
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-weight: 500;
+}
+
+#resume .btn-outline-primary {
+  border: 2px solid var(--accent-color);
+  color: var(--accent-color);
+}
+
+#resume .btn-outline-primary:hover {
+  background: var(--accent-color);
+  color: white;
+}
